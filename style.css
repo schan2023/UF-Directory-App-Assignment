@@ -6,3 +6,27 @@
   max-height: 400px;
   overflow: auto;
 }
+
+.addListings .codeInput, .nameInput, .latitudeInput, .longitudeInput, .addressInput {
+  text-align: center;
+}
+
+.codeInput, .nameInput, .latitudeInput, .longitudeInput {
+  margin: 5px 10px 5px 70px;
+  padding: 2px 2px 2px 2px;
+}
+
+.addressInput {
+  margin: 5px 10px 5px 190px;
+  padding: 2px 2px 2px 2px;
+}
+
+.addButton {
+  margin: 5px 10px 5px 140px;
+  padding: 5px 5px 5px 5px;
+  width: 50%;
+}
+
+.addListings {
+  margin: 10px 10px 10px 10px;
+}
